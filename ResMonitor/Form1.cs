@@ -69,7 +69,7 @@ namespace ResMonitor
             }
             catch (Exception)
             {
-                ;
+                
             }
             
 
