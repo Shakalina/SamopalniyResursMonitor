@@ -67,13 +67,7 @@ namespace ResMonitor
                 progressBar3.Value = (int)d1;
                 progressBar4.Value = (int)d2;
             }
-            catch (Exception)
-            {
-                ;
-            }
-            
-
-
+            catch (Exception) {}
         }
     }
 }
